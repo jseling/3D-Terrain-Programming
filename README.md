@@ -5,7 +5,7 @@ Based on [Focus on 3D Terrain Rendering by Trent Polack](https://books.google.co
 
 
 ## 1-Basic brute force
-In: GLScene
+In: Delphi(GLScene)
 
 ![](./1-Basic%20brute%20force/1-basic-brute-force.png)
 
