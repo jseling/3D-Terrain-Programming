@@ -16,7 +16,6 @@ var
   z, x: integer;
   h: byte;
   y: single;
-begin
 //***
 for z := 0 to FHeightField.DimensionLength - 2 do
 begin
